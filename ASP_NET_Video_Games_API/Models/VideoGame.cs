@@ -19,3 +19,6 @@ namespace ASP_NET_Video_Games_API.Models
         public double GlobalSales { get; set; }
     }
 }
+
+
+
